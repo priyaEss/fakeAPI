@@ -1,0 +1,16 @@
+{
+"shipmentDelivered":[
+  {
+    "data":[{
+      "name":"NRCC1",
+      "row":[
+      {
+      "total":500,
+      "delvered":null,
+      "notdelvered":null
+      }
+      ]
+    }]
+  }
+]
+}
