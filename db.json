@@ -88,5 +88,37 @@
     }
    ]
   }
-]
+],
+  "getRegion":{
+   "data":[
+     {
+      "id":4,
+       "name":"NCRC#1",
+       "group":"region"
+     },
+     {
+      "id":5,
+       "name":"NCRC#2",
+       "group":"region"
+     },
+     "id":6,
+       "name":"NCRC#3",
+       "group":"region"
+     },
+   ]
+  },
+  "shipmentDelivered3":
+  {
+    "result":
+    [
+      {
+        "name":"NRCC#1",
+        "row":{
+          "total":{"total":100,"ontime":60,"late":40},
+          "atNcc":{"total":100,"ontime":60,"late":40},
+        }
+      }
+    ]
+  }
+  
 }
