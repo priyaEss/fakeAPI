@@ -8,9 +8,85 @@
       "total":500,
       "delvered":null,
       "notdelvered":null
+      },
+        {
+      "total":null,
+      "delvered":null,
+      "notdelvered":null
+      },
+        {
+      "total":5,
+      "delvered":null,
+      "notdelvered":null
       }
       ]
-    }]
+    },
+            {
+      "name":"NRCC2",
+      "row":[
+      {
+      "total":500,
+      "delvered":null,
+      "notdelvered":null
+      },
+        {
+      "total":null,
+      "delvered":null,
+      "notdelvered":null
+      },
+        {
+      "total":5,
+      "delvered":null,
+      "notdelvered":null
+      }
+      ]
+    }
+   ]
+  }
+],
+  "shipmentDelivered2":[
+  {
+    "data":[{
+      "name":"NRCC1",
+      "row":[
+      {
+      "total":500,
+      "delvered":null,
+      "notdelvered":null
+      },
+        {
+      "total":null,
+      "delvered":null,
+      "notdelvered":null
+      },
+        {
+      "total":5,
+      "delvered":null,
+      "notdelvered":null
+      }
+      ]
+    },
+            {
+      "name":"NRCC2",
+      "row":[
+      {
+      "total":500,
+      "delvered":null,
+      "notdelvered":null
+      },
+        {
+      "total":null,
+      "delvered":null,
+      "notdelvered":null
+      },
+        {
+      "total":5,
+      "delvered":null,
+      "notdelvered":null
+      }
+      ]
+    }
+   ]
   }
 ]
 }
