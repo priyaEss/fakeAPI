@@ -1,125 +1,17 @@
 {
-"shipmentDelivered":[
-  {
-    "data":[{
-      "name":"NRCC1",
-      "row":[
-      {
-      "total":500,
-      "delvered":null,
-      "notdelvered":null
-      },
+  "areaData": [
+    {
+      "data": [
         {
-      "total":null,
-      "delvered":null,
-      "notdelvered":null
-      },
+          "data": "20%",
+          "date": "28 June"
+        },
         {
-      "total":5,
-      "delvered":null,
-      "notdelvered":null
-      }
-      ]
-    },
-            {
-      "name":"NRCC2",
-      "row":[
-      {
-      "total":500,
-      "delvered":null,
-      "notdelvered":null
-      },
-        {
-      "total":null,
-      "delvered":null,
-      "notdelvered":null
-      },
-        {
-      "total":5,
-      "delvered":null,
-      "notdelvered":null
-      }
-      ]
-    }
-   ]
-  }
-],
-  "shipmentDelivered2":[
-  {
-    "data":[{
-      "name":"NRCC1",
-      "row":[
-      {
-      "total":500,
-      "delvered":null,
-      "notdelvered":null
-      },
-        {
-      "total":null,
-      "delvered":null,
-      "notdelvered":null
-      },
-        {
-      "total":5,
-      "delvered":null,
-          
-      "notdelvered":null
-      }
-      ]
-    },
-            {
-      "name":"NRCC2",
-      "row":[
-      {
-      "total":500,
-      "delvered":null,
-      "notdelvered":null
-      },
-        {
-      "total":null,
-      "delvered":null,
-      "notdelvered":null
-      },
-        {
-      "total":5,
-      "delvered":null,
-      "notdelvered":null
-      }
-      ]
-    }
-   ]
-  }
-],
-  "getRegion":{
-   "data":[
-     {
-      "id":4,
-       "name":"NCRC#1",
-       "group":"region"
-     },
-     {
-      "id":5,
-       "name":"NCRC#2",
-       "group":"region"
-     },
-     "id":6,
-       "name":"NCRC#3",
-       "group":"region"
-     }
-   ]
-  },
-  "shipmentDelivered3":
-  {
-    "result":
-    [
-      {
-        "name":"NRCC#1",
-        "row":{
-          "total":{"total":100,"ontime":60,"late":40},
-          "atNcc":{"total":100,"ontime":60,"late":40},
+          "data": "30%",
+          "date": "29 June"
         }
-      }
-    ]
-  }
-  
+      ],
+      "columns": ["date", "performance"]
+    }
+  ]
 }
