@@ -4,11 +4,11 @@
       "data": [
         {
           "data": "20",
-          "date": "1-May-12"
+          "date": "10"
         },
         {
           "data": "30",
-          "date": "30-Apr-12"
+          "date": "10"
         }
       ],
       "columns": ["data", "date"]
