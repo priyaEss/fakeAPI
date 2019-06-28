@@ -4,11 +4,43 @@
       "data": [
         {
           "data": "20",
-          "date": "1-May-12"
+          "date": "1-May-2019"
+        },
+        {
+          "data": "10",
+          "date": "30-Apr-2019"
+        },
+        {
+          "data": "2",
+          "date": "29-Apr-2019"
         },
         {
           "data": "30",
-          "date": "30-Apr-12"
+          "date": "28-Apr-2019"
+        },
+        {
+          "data": "20",
+          "date": "27-Apr-2019"
+        },
+        {
+          "data": "30",
+          "date": "26-Apr-2019"
+        },
+        {
+          "data": "20",
+          "date": "25-Apr-2019"
+        },
+        {
+          "data": "30",
+          "date": "24-Apr-2019"
+        },
+        {
+          "data": "20",
+          "date": "23-Apr-2019"
+        },
+        {
+          "data": "30",
+          "date": "22-Apr-2019"
         }
       ],
       "columns": ["data", "date"]
