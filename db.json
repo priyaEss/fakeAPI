@@ -11,7 +11,7 @@
           "date": "29 June"
         }
       ],
-      "columns": ["date", "performance"]
+      "columns": ["data", "date"]
     }
   ]
 }
