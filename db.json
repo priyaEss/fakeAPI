@@ -4,43 +4,53 @@
       "data": [
         {
           "data": "20",
-          "date": "1-May-2019"
+          "date": "1-May-2019",
+          "status":"NotDeployed"
         },
         {
           "data": "10",
-          "date": "30-Apr-2019"
+          "date": "30-Apr-2019",
+          "status":"Stop"
         },
         {
           "data": "2",
-          "date": "29-Apr-2019"
+          "date": "29-Apr-2019",
+          "status":"Running"
         },
         {
           "data": "7",
-          "date": "28-Apr-2019"
+          "date": "28-Apr-2019",
+          "status":"Running"
         },
         {
           "data": "20",
-          "date": "27-Apr-2019"
+          "date": "27-Apr-2019",
+          "status":"Stop"
         },
         {
           "data": "30",
-          "date": "26-Apr-2019"
+          "date": "26-Apr-2019",
+          "status":"NotDeployed"
         },
         {
           "data": "26",
-          "date": "25-Apr-2019"
+          "date": "25-Apr-2019",
+          "status":"Running"
         },
         {
           "data": "30",
-          "date": "24-Apr-2019"
+          "date": "24-Apr-2019",
+          "status":"Running"
         },
         {
           "data": "4",
-          "date": "23-Apr-2019"
+          "date": "23-Apr-2019",
+          "status":"NotDeployed"
         },
         {
           "data": "9",
-          "date": "22-Apr-2019"
+          "date": "22-Apr-2019",
+          "status":"Stop"
         }
       ],
       "columns": ["data", "date"]
