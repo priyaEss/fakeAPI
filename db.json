@@ -5,52 +5,52 @@
         {
           "data": "20",
           "date": "1-May-2019",
-          "status":"NotDeployed"
+          "status":"p_overloaded"
         },
         {
           "data": "10",
           "date": "30-Apr-2019",
-          "status":"Stop"
+          "status":"p_underloaded"
         },
         {
           "data": "2",
           "date": "29-Apr-2019",
-          "status":"Running"
+          "status":"p_underloaded"
         },
         {
           "data": "7",
           "date": "28-Apr-2019",
-          "status":"Running"
+          "status":"p_underloaded"
         },
         {
           "data": "20",
           "date": "27-Apr-2019",
-          "status":"Stop"
+          "status":"p_underloaded"
         },
         {
           "data": "30",
           "date": "26-Apr-2019",
-          "status":"NotDeployed"
+          "status":"p_overloaded"
         },
         {
           "data": "26",
           "date": "25-Apr-2019",
-          "status":"Running"
+          "status":"p_underloaded"
         },
         {
           "data": "30",
           "date": "24-Apr-2019",
-          "status":"Running"
+          "status":"p_overloaded"
         },
         {
           "data": "4",
           "date": "23-Apr-2019",
-          "status":"NotDeployed"
+          "status":"p_underloaded"
         },
         {
           "data": "9",
           "date": "22-Apr-2019",
-          "status":"Stop"
+          "status":"p_underloaded"
         }
       ],
       "columns": ["data", "date"]
